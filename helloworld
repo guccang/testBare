@@ -19,7 +19,3 @@ bare02 change for...
 for git diff / git diff --staged
 
 for git commit -a -m "comment"
-
-
-check git revert
-
