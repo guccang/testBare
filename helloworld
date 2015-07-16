@@ -21,3 +21,4 @@ for git diff / git diff --staged
 for git commit -a -m "comment"
 
 git revert
+
